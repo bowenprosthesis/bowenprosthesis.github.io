@@ -25,7 +25,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/Gen_123.png' alt="sym" width="60%">
+      <img src='images/Gen_123.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
