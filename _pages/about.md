@@ -17,16 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at Harbin Institute of Technology, with research interests in the design and control of prosthetic and robotic systems, as well as gait data analysis. Currently, my work focuses on the high-performance implementation of electro-hydraulic prostheses and the exploration of their human-machine interaction mechanisms. During my doctoral studies, I was awarded a scholarship from the China Scholarship Council (CSC) and spent one year as a visiting researcher at the Lauflabor laboratory of TU Darmstadt, where I participated in the interdisciplinary LokoAssist project.
-
-Before entering academia, I worked as an engineer at Shenyang Machine Tool Group, where I was responsible for the development and testing of CNC systems. This industry experience provided a strong foundation for my subsequent research on complex electromechanical systems.
+I am a Ph.D. student at Harbin Institute of Technology, with research interests in the design and control of prosthetic and robotic systems, and gait analysis. 
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-**🔧 Project:** *Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
+# 🔧 Projects 
+*Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
   **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
 
   > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems.
