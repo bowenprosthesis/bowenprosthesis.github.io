@@ -25,9 +25,11 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CVPR 2016</div>
       <img src='images/Gen_123.png' alt="sym" width="100%">
+    </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1"> 
 
 > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
   
