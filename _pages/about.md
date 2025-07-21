@@ -21,15 +21,15 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 
 # 🔧 Projects 
 
-### *1. Design of Hydraulic Powered Ankle-Foot Prostheses*  
+### *1. Design of Hydraulic Powered Prothetic Feet*  
 
 <img src="images/Gen_123.png" alt="Figure: Gen image" width="70%">
 
-> Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
+> Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven prothetic feet to improve power density and biomechanical adaptability:
   
   - [**Gen-1**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-1.png): Off-board, damping-based hydraulic system  
-  - [**Gen-2**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-2.png): Fully active, on-board direct-drive design  
-  - [**Gen-3**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/AMAM_poster.png): Fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
+  - [**Gen-2**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-2.png): On-board, fully active, direct-drive design  
+  - [**Gen-3**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/AMAM_poster.png): On-board, fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
 
   The evolution demonstrates a shift from passive damping to **actively controlled, biomimetic actuation**, enhancing both performance and compactness.
 
@@ -38,7 +38,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 
 ### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
 ![Figure: Bypass image](images/bypassStudy.png)
- > Conventional ankle-foot prostheses primarily replicate monoarticular muscle functions (e.g., Soleus, Tibialis Anterior), but often fail to capture the contributions of biarticular muscles such as the Gastrocnemius. We developed a powered prosthetic foot incorporating a cable-driven biarticular muscle actuator. Experiments with healthy participants demonstrated a reduction in metabolic cost. We analyzed potential contributing factors, including joint mechanics, center-of-mass dynamics, and gait symmetry.
+ > Conventional prothetic feet primarily replicate monoarticular muscle functions (e.g., Soleus, Tibialis Anterior), but often fail to capture the contributions of biarticular muscles such as the Gastrocnemius. We developed a powered prosthetic foot incorporating a cable-driven biarticular muscle actuator. Experiments with healthy participants demonstrated a reduction in metabolic cost. We analyzed potential contributing factors, including joint mechanics, center-of-mass dynamics, and gait symmetry.
 
 [**Article**](https://doi.org/10.1016/j.jbiomech.2025.112768)
 
@@ -59,7 +59,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
   
 # 🎖 Honors and Awards
 - *2020*, China National Scholarship for Academic Excellence  
-- *2022*, CSC Scholarship by China Scholarship Council for Overseas Study
+- *2022*, Scholarship by China Scholarship Council for Overseas Study
 
 # 📖 Educations
 - *2021.09 - present*, Ph.D. in Mechanical Engineering, Harbin Institute of Technology, China  
