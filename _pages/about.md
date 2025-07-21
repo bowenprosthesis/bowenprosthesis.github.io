@@ -26,7 +26,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2016</div>
-      <img src='images/Gen_123.png' alt="sym" width="100%">
+      <img src='images/Gen_123.png' alt="sym" style="width:60%; display:block; margin:auto;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1"> 
