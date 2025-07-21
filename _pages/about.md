@@ -32,22 +32,23 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
   max-width: 1400px;
 }
 .paper-box-image {
-  width: 1400px;
+  width: 500px; /* 控制图片区域宽度 */
   flex-shrink: 0;
 }
 .paper-box-image img {
-  width: 100%;
+  width: 100%;   /* 图片占满父容器 */
   height: auto;
   display: block;
 }
 .paper-box-text {
-  flex-grow: 1;
+  flex-grow: 1;  /* 文字占剩余空间 */
 }
 </style>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/Gen_123.png' alt="sym" style="width:1000%; display:block; margin:auto;">
+      <img src='images/Gen_123.png' alt="sym" style="width:100%; display:block; margin:auto;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1"> 
@@ -61,7 +62,6 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
   The evolution demonstrates a shift from passive damping to **actively controlled, biomimetic actuation**, enhancing both performance and compactness.
   </div>
 </div>
-  
 
 
 ### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
