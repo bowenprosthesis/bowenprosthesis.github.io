@@ -35,7 +35,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 </div>
 </div>
 
-- *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
+### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
   **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
 
   
