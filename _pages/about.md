@@ -22,36 +22,8 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 # 🔧 Projects 
 
 ### *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
-<style>
-.paper-box {
-  display: flex;
-  gap: 20px;
-  align-items: flex-start;
-  border: 1px solid #ccc;
-  padding: 10px;
-  max-width: 1400px;
-}
-.paper-box-image {
-  width: 500px; /* 控制图片区域宽度 */
-  flex-shrink: 0;
-}
-.paper-box-image img {
-  width: 100%;   /* 图片占满父容器 */
-  height: auto;
-  display: block;
-}
-.paper-box-text {
-  flex-grow: 1;  /* 文字占剩余空间 */
-}
-</style>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/Gen_123.png' alt="sym" style="width:100%; display:block; margin:auto;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1"> 
+![Figure: Gen image](images/Gen_123.png)
 
 > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
   
