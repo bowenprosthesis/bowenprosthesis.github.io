@@ -19,13 +19,8 @@ redirect_from:
 
 I am a Ph.D. student at Harbin Institute of Technology, with research interests in the design and control of prosthetic and robotic systems, and gait analysis. 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 🔧 Projects 
-*Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
+- *Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
   **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
 
   > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems.
@@ -40,8 +35,10 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
+  **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
 
+  
 # 🎖 Honors and Awards
 - *2020*, China National Scholarship for Academic Excellence  
 - *2022*, CSC Scholarship by China Scholarship Council for Overseas Study
