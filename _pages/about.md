@@ -22,11 +22,9 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 # 🔧 Projects 
 ### *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
   
-  > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems.
-
-  We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
+  > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
   
-  - **Gen-1**: Off-board, damping-based hydraulic system  
+  - [**Gen-1**](https://github.com/bowenprosthesis/bowenprosthesis.github.io/500x300.png): Off-board, damping-based hydraulic system  
   - **Gen-2**: Fully active, on-board direct-drive design  
   - **Gen-3**: Fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
 
