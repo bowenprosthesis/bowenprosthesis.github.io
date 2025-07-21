@@ -32,11 +32,11 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 
 
 ### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
-  **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
+ >  Conventional ankle-foot prostheses primarily replicate monoarticular muscle functions (e.g., Soleus, Tibialis Anterior), but often fail to capture the contributions of biarticular muscles such as the Gastrocnemius. We developed a powered prosthetic foot incorporating a cable-driven biarticular muscle actuator. Experiments with healthy participants demonstrated a reduction in metabolic cost. We analyzed potential contributing factors, including joint mechanics, center-of-mass dynamics, and gait symmetry. [**Publication**](https://doi.org/10.1016/j.jbiomech.2025.112768)
 
 
 ### *3. User Preference-Based Human-in-the-Loop Tuning of Exoskeleton Assistance during Walking*  
-  **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
+ 
 
 
 ### *4. Design of a Biped Walking Robot*  
