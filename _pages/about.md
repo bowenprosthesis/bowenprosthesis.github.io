@@ -48,6 +48,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 
 
 ### *4. Design of a Biped Walking Robot*  
+![Figure: Bipedal image](images/guroatom.png)
  > We are developing a bipedal walking robot with full lower-limb degrees of freedom, including a 1-DoF waist joint, 3-DoF hip, 1-DoF knee, and 2-DoF ankle. This robot serves as a platform for research in humanoid locomotion, dynamic stability control, and assistive walking strategies.
 
   
