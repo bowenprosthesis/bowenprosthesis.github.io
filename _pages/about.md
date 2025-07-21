@@ -36,7 +36,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 **Supervisor**: Prof. [Qitao Huang](https://homepage.hit.edu.cn/huangqitao)
 
 
-### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
+### *2. Study on the Biomechanical Impact of a Powered Biarticular Prothetic Foot*  
 ![Figure: Bypass image](images/bypassStudy.png)
  > Conventional prothetic feet primarily replicate monoarticular muscle functions (e.g., Soleus, Tibialis Anterior), but often fail to capture the contributions of biarticular muscles such as the Gastrocnemius. We developed a powered prosthetic foot incorporating a cable-driven biarticular muscle actuator. Experiments with healthy participants demonstrated a reduction in metabolic cost. We analyzed potential contributing factors, including joint mechanics, center-of-mass dynamics, and gait symmetry.
 
