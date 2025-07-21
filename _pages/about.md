@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. student at Harbin Institute of Technology, with research interests in the design and control of prosthetic and robotic systems, and gait analysis. 
 
 # 🔧 Projects 
-- *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
+## *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
   **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
 
   > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems.
