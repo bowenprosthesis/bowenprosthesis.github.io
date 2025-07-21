@@ -22,21 +22,25 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 # 🔧 Projects 
 
 ### *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2016</div>
-      <img src='images/Gen_123' alt="sym" width="100%">
+      <img src='images/Gen_123.png' alt="sym" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1"> 
-  > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
+  <div class='paper-box-text' markdown="1">
+
+> Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems. We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
   
   - [**Gen-1**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-1.png): Off-board, damping-based hydraulic system  
   - [**Gen-2**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-2.png): Fully active, on-board direct-drive design  
   - [**Gen-3**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/AMAM_poster.png): Fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
 
   The evolution demonstrates a shift from passive damping to **actively controlled, biomimetic actuation**, enhancing both performance and compactness.
+  </div>
+</div>
+  
 
 
 ### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
