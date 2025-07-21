@@ -26,7 +26,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
   
   - [**Gen-1**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-1.png): Off-board, damping-based hydraulic system  
   - **Gen-2**: Fully active, on-board direct-drive design  
-  - [**Gen-3**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/Gen-3.png): Fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
+  - [**Gen-3**](https://raw.githubusercontent.com/bowenprosthesis/bowenprosthesis.github.io/main/images/AMAM_poster.png): Fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
 
   The evolution demonstrates a shift from passive damping to **actively controlled, biomimetic actuation**, enhancing both performance and compactness.
 
