@@ -22,6 +22,28 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 # 🔧 Projects 
 
 ### *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
+<style>
+.paper-box {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-width: 800px;
+}
+.paper-box-image {
+  width: 150px;
+  flex-shrink: 0;
+}
+.paper-box-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.paper-box-text {
+  flex-grow: 1;
+}
+</style>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
