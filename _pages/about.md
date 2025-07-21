@@ -21,7 +21,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 
 # 🔧 Projects 
 
-### *1. Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
+### *1. Design of Hydraulic Powered Ankle-Foot Prostheses*  
 
 <img src="images/Gen_123.png" alt="Figure: Gen image" width="70%">
 
@@ -40,7 +40,7 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 ![Figure: Bypass image](images/bypassStudy.png)
  > Conventional ankle-foot prostheses primarily replicate monoarticular muscle functions (e.g., Soleus, Tibialis Anterior), but often fail to capture the contributions of biarticular muscles such as the Gastrocnemius. We developed a powered prosthetic foot incorporating a cable-driven biarticular muscle actuator. Experiments with healthy participants demonstrated a reduction in metabolic cost. We analyzed potential contributing factors, including joint mechanics, center-of-mass dynamics, and gait symmetry.
 
-[**Publication**](https://doi.org/10.1016/j.jbiomech.2025.112768)
+[**Article**](https://doi.org/10.1016/j.jbiomech.2025.112768)
 
 **Collaborators**: Martin Grimmer, Julian Zeiss, Florian Weigand
 
