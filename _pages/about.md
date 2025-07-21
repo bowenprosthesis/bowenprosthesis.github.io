@@ -26,25 +26,24 @@ Before entering academia, I worked as an engineer at Shenyang Machine Tool Group
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 🛠 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Design of an EHA-Driven Powered Ankle-Foot Prosthesis
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Supervisor: [**Qitao Huang**](https://homepage.hit.edu.cn/huangqitao)
+- Hydraulic systems are well-suited for designing highly integrated, heavy-load drive systems. We developed three generations of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability. The evolution progressed from an off-board, damping-based hydraulic system (Gen-1), to a fully active, on-board direct-drive design (Gen-2), and finally to a third-generation fully active prosthesis featuring a hydraulic-based serial elastic actuation (SEA) mechanism.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020*, China National Scholarship for Academic Excellence  
+- *2022*, CSC Scholarship by China Scholarship Council for Overseas Study
 
 # 📖 Educations
 - *2021.09 - present*, Ph.D. in Mechanical Engineering, Harbin Institute of Technology, China  
@@ -55,5 +54,6 @@ Before entering academia, I worked as an engineer at Shenyang Machine Tool Group
 - *2015.07 - 2018.04*, Engineer, Shenyang Machine Tool Group, China  
   Responsible for the development and testing of CNC systems for machine tools. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Exchange & Visiting Experience
+- *2022.10 – 2023.10*, Visiting Student, Lauflabor, TU Darmstadt, Germany  
+  Conducted joint research on biomechanical analysis and lower-limb exoskeleton control.
