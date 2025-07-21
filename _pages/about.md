@@ -37,7 +37,18 @@ I am a Ph.D. student at Harbin Institute of Technology, with research interests 
 
 ### *2. Study on the Biomechanical Impact of a Powered Biarticular prothetic foot*  
   **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
+</div>
+</div>
 
+### *3. User Preference-Based Human-in-the-Loop Tuning of Exoskeleton Assistance during Walking*  
+  **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
+</div>
+</div> 
+
+### *4. Design of a Biped Walking Robot*  
+  We are developing a bipedal walking robot with full lower-limb degrees of freedom, including a 1-DoF waist joint, 3-DoF hip, 1-DoF knee, and 2-DoF ankle. This robot serves as a platform for research in humanoid locomotion, dynamic stability control, and assistive walking strategies.
+</div>
+</div>
   
 # 🎖 Honors and Awards
 - *2020*, China National Scholarship for Academic Excellence  
