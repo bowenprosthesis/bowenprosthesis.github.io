@@ -26,16 +26,18 @@ Before entering academia, I worked as an engineer at Shenyang Machine Tool Group
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 🛠 Projects 
+**🔧 Project:** *Design of an EHA-Driven Powered Ankle-Foot Prosthesis*  
+  **🏷️ Keywords:** Hydraulic systems, EHA, SEA, Biomechanics
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  > Hydraulic systems are well-suited for designing highly integrated, high-load-capacity drive systems.
 
-- Design of an EHA-Driven Powered Ankle-Foot Prosthesis
+  We developed **three generations** of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability:
+  
+  - **Gen-1**: Off-board, damping-based hydraulic system  
+  - **Gen-2**: Fully active, on-board direct-drive design  
+  - **Gen-3**: Fully active prosthesis with hydraulic-based *Serial Elastic Actuation (SEA)*
 
-
-Supervisor: [**Qitao Huang**](https://homepage.hit.edu.cn/huangqitao)
-- Hydraulic systems are well-suited for designing highly integrated, heavy-load drive systems. We developed three generations of EHA-driven ankle-foot prostheses to improve power density and biomechanical adaptability. The evolution progressed from an off-board, damping-based hydraulic system (Gen-1), to a fully active, on-board direct-drive design (Gen-2), and finally to a third-generation fully active prosthesis featuring a hydraulic-based serial elastic actuation (SEA) mechanism.
+  The evolution demonstrates a shift from passive damping to **actively controlled, biomimetic actuation**, enhancing both performance and compactness.
 </div>
 </div>
 
@@ -54,6 +56,6 @@ Supervisor: [**Qitao Huang**](https://homepage.hit.edu.cn/huangqitao)
 - *2015.07 - 2018.04*, Engineer, Shenyang Machine Tool Group, China  
   Responsible for the development and testing of CNC systems for machine tools. 
 
-# 📚 Exchange & Visiting Experience
+# 📚 Visiting
 - *2022.10 – 2023.10*, Visiting Student, Lauflabor, TU Darmstadt, Germany  
   Conducted joint research on biomechanical analysis and lower-limb exoskeleton control.
